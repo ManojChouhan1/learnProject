@@ -1,0 +1,1 @@
+this text in file.txt made by fs module import
